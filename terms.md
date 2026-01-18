@@ -1,8 +1,8 @@
 # Kullanım Koşulları
 
-Son Güncelleme:18.01.2026
+**Son Güncelleme:** [18.01.2026]
 
-KPSS 2026 uygulamasını indirerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz.
+**[KPSS 2026]** uygulamasını indirerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz.
 
 ## 1. Lisans ve Erişim
 Bu uygulama, kişisel ve ticari olmayan kullanımınız için lisanslanmıştır. Uygulamanın kaynak kodunu kopyalamak, tersine mühendislik yapmak veya içeriğini izinsiz çoğaltmak yasaktır.
