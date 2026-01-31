@@ -1,6 +1,6 @@
 KULLANIM KOŞULLARI
 
-Son Güncelleme: 18.01.2026
+Son Güncelleme: 31.01.2026
 
 KPSS Evreni uygulamasını indirerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz.
 
