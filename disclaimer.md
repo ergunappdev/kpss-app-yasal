@@ -8,14 +8,7 @@ KPSS Evreni, bağımsız bir geliştirici tarafından hazırlanmış bir eğitim
 Uygulama içerisindeki ders notları, test soruları, cevap anahtarları ve açıklamalar; büyük bir titizlikle ve güncel müfredata uygun olarak hazırlanmaya çalışılmıştır.
 
 Ancak;
-
-Basım veya yazım hataları,
-
-Müfredat veya mevzuat değişiklikleri,
-
-Sistem kaynaklı teknik aksaklıklar,
-
-nedeniyle içeriklerde yanlışlıklar veya eksiklikler yaşanabilir. Geliştirici, uygulama içindeki bilgilerin %100 doğruluğunu, güncelliğini veya kesinliğini garanti etmez. Kullanıcı, uygulamadaki bilgileri kullanırken bu durumu peşinen kabul eder. Şüpheli durumlarda bilgilerin resmi kaynaklardan (MEB yayınları, Resmi Gazete vb.) teyit edilmesi tamamen kullanıcının sorumluluğundadır.
+Basım veya yazım hataları,Müfredat veya mevzuat değişiklikleri,Sistem kaynaklı teknik aksaklıklar,nedeniyle içeriklerde yanlışlıklar veya eksiklikler yaşanabilir. Geliştirici, uygulama içindeki bilgilerin %100 doğruluğunu, güncelliğini veya kesinliğini garanti etmez. Kullanıcı, uygulamadaki bilgileri kullanırken bu durumu peşinen kabul eder. Şüpheli durumlarda bilgilerin resmi kaynaklardan (MEB yayınları, Resmi Gazete vb.) teyit edilmesi tamamen kullanıcının sorumluluğundadır.
 
 3. Sınav Başarısı
 Bu uygulama sadece bir hazırlık aracıdır. Uygulamanın kullanılması; sınavda kesin başarıyı, belirli bir puanın alınmasını veya devlet memurluğuna atanmayı taahhüt veya garanti etmez.
