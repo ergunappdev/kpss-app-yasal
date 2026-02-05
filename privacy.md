@@ -1,43 +1,41 @@
-GİZLİLİK POLİTİKASI
+# Gizlilik Politikası
 
-Son Güncelleme: 31.01.2026
+**Son Güncelleme:** 31.01.2026
 
-Bu Gizlilik Politikası, KPSS Evreni ("Uygulama") tarafından sağlanan hizmetlerin kullanımı sırasında verilerinizin nasıl işlendiğini açıklar.
+Bu Gizlilik Politikası, **KPSS Evreni** ("Uygulama") tarafından sağlanan hizmetlerin kullanımı sırasında verilerinizin nasıl işlendiğini açıklar.
 
-1. VERİ TOPLAMA VE KULLANIM ŞARTLARI
+### 1. Veri Toplama ve Kullanım Şartları
 
 Uygulamamız, kullanıcı gizliliğine öncelik veren bir yapıya sahiptir. Veri toplama politikamız, uygulamayı kullanım şeklinize göre (Çevrimdışı veya Çevrimiçi) değişiklik gösterir:
 
-A. Çevrimdışı (Yerel) Kullanım Uygulamayı üye olmadan veya giriş yapmadan kullandığınızda:
+**A. Çevrimdışı (Yerel) Kullanım**
+Uygulamayı üye olmadan veya giriş yapmadan kullandığınızda:
+* Hiçbir kişisel veriniz toplanmaz.
+* Çözdüğünüz sorular, notlarınız ve ilerleme durumunuz sadece kendi cihazınızda (yerel depolama) saklanır.
+* Bu verilere tarafımızca veya üçüncü şahıslarca erişilmesi mümkün değildir. Uygulamayı silerseniz bu veriler kaybolur.
 
-Hiçbir kişisel veriniz toplanmaz.
+**B. Çevrimiçi (Bulut/Senkronizasyon) Kullanım**
+Verilerinizi yedeklemek veya farklı cihazlardan erişmek amacıyla kendi isteğinizle "Giriş Yap" özelliğini kullanırsanız, sadece hizmetin çalışabilmesi için gerekli olan asgari veriler Google Firebase sunucularına kaydedilir:
 
-Çözdüğünüz sorular, notlarınız ve ilerleme durumunuz sadece kendi cihazınızda (yerel depolama) saklanır.
+* **Kimlik Bilgileri:** Sadece hesabınızı tanımlamak için E-posta adresi ve (varsa) Kullanıcı Adı.
+* **İlerleme Verileri:** Çözülen testler, doğru/yanlış sayıları ve haftalık hedefleriniz; cihazlar arası senkronizasyonun sağlanması amacıyla buluta kaydedilir.
 
-Bu verilere tarafımızca veya üçüncü şahıslarca erişilmesi mümkün değildir. Uygulamayı silerseniz bu veriler kaybolur.
+### 2. Veri Güvenliği ve Depolama
 
-B. Çevrimiçi (Bulut/Senkronizasyon) Kullanım Verilerinizi yedeklemek veya farklı cihazlardan erişmek amacıyla kendi isteğinizle "Giriş Yap" özelliğini kullanırsanız, sadece hizmetin çalışabilmesi için gerekli olan asgari veriler Google Firebase sunucularına kaydedilir:
+Bulut hizmetini kullanan kullanıcıların verileri, dünya genelinde güvenilirliği kabul görmüş **Google Firebase** altyapısı üzerinde barındırılmaktadır. Tarafımızca verileriniz üzerinde harici bir şifreleme işlemi uygulanmamakta olup, verilerin güvenliği Google'ın sunucu güvenlik standartlarına emanet edilmiştir.
 
-Kimlik Bilgileri: Sadece hesabınızı tanımlamak için E-posta adresi ve (varsa) Kullanıcı Adı.
+### 3. Üçüncü Taraflarla Paylaşım
 
-İlerleme Verileri: Çözülen testler, doğru/yanlış sayıları ve haftalık hedefleriniz; cihazlar arası senkronizasyonun sağlanması amacıyla buluta kaydedilir.
+Kişisel verileriniz, reklam amaçlı veya ticari kazanç sağlamak amacıyla **asla üçüncü şahıslarla paylaşılmaz ve satılmaz.** Verileriniz sadece uygulamanın senkronizasyon özelliğini sağlamak amacıyla kullanılır.
 
-2. VERİ GÜVENLİĞİ VE DEPOLAMA
-
-Bulut hizmetini kullanan kullanıcıların verileri, dünya genelinde güvenilirliği kabul görmüş Google Firebase altyapısı üzerinde barındırılmaktadır. Tarafımızca verileriniz üzerinde harici bir şifreleme işlemi uygulanmamakta olup, verilerin güvenliği Google'ın sunucu güvenlik standartlarına emanet edilmiştir.
-
-3. ÜÇÜNCÜ TARAFLARLA PAYLAŞIM
-
-Kişisel verileriniz, reklam amaçlı veya ticari kazanç sağlamak amacıyla asla üçüncü şahıslarla paylaşılmaz ve satılmaz. Verileriniz sadece uygulamanın senkronizasyon özelliğini sağlamak amacıyla kullanılır.
-
-4. KULLANICI HAKLARI VE HESAP SİLME
+### 4. Kullanıcı Hakları ve Hesap Silme
 
 İstediğiniz zaman uygulama ayarları içerisindeki "Hesabımı Sil" veya "Çıkış Yap" seçeneklerini kullanabilirsiniz:
 
-Çıkış Yap: Verileriniz bulutta kalır ancak cihazdan erişim kesilir.
+* **Çıkış Yap:** Verileriniz bulutta kalır ancak cihazdan erişim kesilir.
+* **Hesabımı Sil:** E-posta adresiniz ve buluta kaydedilmiş tüm ilerleme verileriniz (çözülen sorular, istatistikler vb.) sunucularımızdan kalıcı olarak silinir.
 
-Hesabımı Sil: E-posta adresiniz ve buluta kaydedilmiş tüm ilerleme verileriniz (çözülen sorular, istatistikler vb.) sunucularımızdan kalıcı olarak silinir.
+### 5. İletişim
 
-5. İLETİŞİM
-
-Gizlilik politikamızla ilgili soru ve talepleriniz için: ergun.app.dev@gmail.com
+Gizlilik politikamızla ilgili soru ve talepleriniz için:
+* **E-posta:** ergun.app.dev@gmail.com
