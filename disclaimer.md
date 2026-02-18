@@ -3,7 +3,7 @@
 **ÖNEMLİ UYARI:** Lütfen uygulamayı kullanmadan önce aşağıdaki maddeleri dikkatlice okuyunuz.
 
 ### 1. Resmi Kurumlarla İlişki Yoktur
-**KPSS Evreni: 2026 Hazırlık**, bağımsız bir geliştirici tarafından hazırlanmış bir eğitim platformudur. Bu uygulamanın; ÖSYM (Ölçme, Seçme ve Yerleştirme Merkezi), MEB (Milli Eğitim Bakanlığı) veya herhangi bir devlet kurumu ile resmi bir bağlantısı, ortaklığı, temsilciliği veya onayı bulunmamaktadır.
+**KPSS Evreni**, bağımsız bir geliştirici tarafından hazırlanmış bir eğitim platformudur. Bu uygulamanın; ÖSYM (Ölçme, Seçme ve Yerleştirme Merkezi), MEB (Milli Eğitim Bakanlığı) veya herhangi bir devlet kurumu ile resmi bir bağlantısı, ortaklığı, temsilciliği veya onayı bulunmamaktadır.
 
 ### 2. İçerik Doğruluğu ve Hatalar
 Uygulama içerisindeki ders notları, test soruları, cevap anahtarları ve açıklamalar; büyük bir titizlikle ve güncel müfredata uygun olarak hazırlanmaya çalışılmıştır.
