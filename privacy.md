@@ -2,7 +2,7 @@
 
 **Son Güncelleme:** 31.01.2026
 
-Bu Gizlilik Politikası, **KPSS Evreni** ("Uygulama") tarafından sağlanan hizmetlerin kullanımı sırasında verilerinizin nasıl işlendiğini açıklar.
+Bu Gizlilik Politikası, **KPSS Evreni: 2026 Hazırlık** ("Uygulama") tarafından sağlanan hizmetlerin kullanımı sırasında verilerinizin nasıl işlendiğini açıklar.
 
 ### 1. Veri Toplama ve Kullanım Şartları
 
