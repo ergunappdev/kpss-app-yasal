@@ -1,4 +1,4 @@
-KPSS Evreni Destek ve İletişim
+KPSS Evreni: 2026 Hazırlık Destek ve İletişim
 Uygulamamızla ilgili her türlü soru, hata bildirimi veya öneri için bize aşağıdaki kanallardan ulaşabilirsiniz:
 
 E-posta: ergun.app.dev@gmail.com
