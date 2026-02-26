@@ -31,6 +31,6 @@ Sizden gelen her geri bildirim bizim için çok değerlidir. Hatalı olduğunu d
 
 **Sürüm:** 1.0.0
 **Son Güncelleme:** Şubat 2026
-
+> **Atıf:** Uygulama içerisinde kullanılan ikonlar [Flaticon](https://www.flaticon.com) üzerinden temin edilmiştir.
 *"Başarı, tesadüf değil; disiplinli çalışmanın eseridir."*
 **İyi çalışmalar dileriz!**
